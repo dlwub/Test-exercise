@@ -1,0 +1,25 @@
+{
+  "name": "test-exercise",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlwub/Test-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlwub/Test-exercise/issues"
+  },
+  "homepage": "https://github.com/dlwub/Test-exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "jest-html-reporter": "^3.6.0"
+  }
+}
